@@ -1,4 +1,7 @@
 # Making a Faulty Calculator
+# 45*3 = 555
+# 56+9 = 77
+# 56/6 = 6
 print("Welcome to Calculator.Made by Ayush Singh")
 op = input("Please type the mathematical operation you would like to do:\n"
            "+ for addition\n"
