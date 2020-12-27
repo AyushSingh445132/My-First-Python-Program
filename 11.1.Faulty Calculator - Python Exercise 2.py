@@ -12,17 +12,17 @@ num1 = int(input("Enter First Number\n"))
 num2 = int(input("Enter Second Number\n"))
 
 if op=="+" and num1==56 and num2==9:
-     print (77)
+    print (77)
 elif op=="+":
     print(num1 + num2)
 elif op=="-":
     print(num1 - num2)
 elif op=="*" and num1==45 and num2==3:
-        print(555)
+    print(555)
 elif op == "*":
     print(num1 * num2)
 elif op=="/" and num1==56 and num2==6:
-        print(6)
+    print(6)
 elif op=="/":
     print(num1 / num2)
 else :
