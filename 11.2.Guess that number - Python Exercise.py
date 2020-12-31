@@ -4,7 +4,7 @@
 # If the user cannot guess the number after all turns are finished print "Game Over"
 # If the user won print the number of guesses user took to finish it.
 
-# guess the number
+# guess number
 n = 18
 # nog = number_of_guesses
 nog = 1
