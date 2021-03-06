@@ -5,7 +5,7 @@
 # If the user won print the number of guesses user took to finish it.
 
 # guess number
-n = 18
+n = 26
 # nog = number_of_guesses
 nog = 1
 print("You will get 5 chances to guess the correct number")
