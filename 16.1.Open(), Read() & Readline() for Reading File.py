@@ -4,7 +4,7 @@
 
 # How to Read a file? (Use only one read argument at a time to avoid errors)
 
-f = open("demofile.txt", "r")
+f = open("16.5. demofile.txt", "r")
 # content = f.read()
 
 # print(content)

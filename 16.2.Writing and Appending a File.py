@@ -3,12 +3,12 @@
 
 # "w" Mode
 
-'''f = open("demofile1.txt","w")
+'''f = open("16.6. demofile1.txt","w")
 f.write("Hi! Just testing if it works of not.\n")'''
 
 # "a" Mode
 
-f = open("demofile1.txt","a")
+f = open("16.6. demofile1.txt", "a")
 a = f.write("Testing Appending multiple times.\n")
 
 # It will print the number of words printed till now
@@ -16,7 +16,7 @@ a = f.write("Testing Appending multiple times.\n")
 
 # "r+" Mode
 
-"""f = open("demofile1.txt", "r+")
+"""f = open("16.6. demofile1.txt", "r+")
 
 f.write("Program Succesfully Completed.\n")
 
