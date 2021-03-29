@@ -1,5 +1,5 @@
-'''Question
- In this we have to print an right-angled shaped triangle with the help of "*".'''
+ # Question
+ # In this we have to print an right-angled shaped triangle with the help of "*".
 
 '''Rules for Exercise :-
 1.You have to take an integer variable,and the input of the variable will determine
@@ -16,7 +16,7 @@
               **
               *'''
 
-# Solution
+# Solution Using For Loop
 
 Input = input("How Many Row You Want To Print\n")
 num = int(Input)
@@ -37,3 +37,22 @@ elif bool == False:
 
 else:
     print("Error Input")
+
+
+# Solution Using While Loop
+
+'''x = int(input("How many Rows You want to print?\n"))
+y = bool(int(input("Choose Between 1 and 0\n")))
+
+def star(x, y):
+    if y == True:
+        z = 1
+        while z<=x:
+            print(z * "*")
+            z = z + 1
+    else:
+        while x > 0:
+            print(x * "*")
+            x = x - 1
+
+star(x, y)'''
