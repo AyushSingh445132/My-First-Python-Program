@@ -14,7 +14,7 @@ print(list(result))
 
 
 # Sortlisting a list on the basis of even
-sort_list = ["Mango", "Potato", "chopsticks", "Noodles"]
+sort_list = ["Mango", "Potato", "Chicken", "Noodles"]
 
 for index, item in enumerate(sort_list, start=0):
 
