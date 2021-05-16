@@ -9,4 +9,4 @@ Comment
 print("This is a Print Statement")
 print("I am a programmer", end= " It's my hobby")
 #Escape sequences
-print("My name is \n Ayush \t I am a programmer")
+print("My name is \n ayush \t I am a programmer")
